@@ -104,6 +104,24 @@ FrameWise/
 - **First Analysis:** Downloads ~500MB AI model once (cached locally thereafter)
 
 ---
+## 📸 Demo
+
+
+### 🏠 Main Interface
+![Home](home.png)
+
+### 🚨 AI Generated Detection
+![Fake Result](fake-result.png)
+
+### ✅ Authentic Media Detection
+![Real Result](real-result.png)
+
+### ⚙️ Processing Pipeline
+![Processing](processing.png)
+
+### 📂 Upload Media Interface
+![Upload](upload.png)
+
 
 ## ⚠️ Disclaimer
 
